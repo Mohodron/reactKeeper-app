@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactKeeper-app/static/js/main.ed9edfbd.js",
+    "index.html": "/reactKeeper-app/index.html",
+    "main.ed9edfbd.js.map": "/reactKeeper-app/static/js/main.ed9edfbd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ed9edfbd.js"
+  ]
+}
